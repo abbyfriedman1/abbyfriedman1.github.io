@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title_separator          : "-"
 name                     : "Robin Hokie: Communication Portfolio"
 description              : >
-  Professional portfolio for Robin Hokie, School of Communication,
+  Professional portfolio for Abby Friedman, School of Communication,
   Virginia Tech, including work from CMST 4714: The Human Communicator in an
   Era of AI.
 
@@ -28,14 +28,14 @@ baseurl                  : ""         # -> ""
 repository               : "abbyfriedman1/abbyfriedman1.github.io"  # -> "yourusername/yourusername.github.io"
 title                    : "Abby Friedman's Portfolio" # the name shown in the maroon header bar and browser tab
 author:
-  name     : "Robin Hokie"
+  name     : "Abby Friedman"
   avatar   : "/images/bio-photo.jpg"
   bio      : "Senior, School of Communication, Virginia Tech. Interested in how human communicators build meaning in AI-mediated environments."
   location : "Blacksburg, VA"
-  email    : "robin.hokie@vt.edu"
-  github   : "robinhokie"    # username only, no URL — set blank to hide
-  instagram: "robinhokie"    # username only, no URL — set blank to hide
-  linkedin : "robinhokie"    # username only, no URL — set blank to hide
+  email    : "abbyfriedman@vt.edu"
+  github   : "abbyfriedman1"    # username only, no URL — set blank to hide
+  instagram: ""    # username only, no URL — set blank to hide
+  linkedin : "www.linkedin.com/in/-abbyfriedman"    # username only, no URL — set blank to hide
 # ============================================================
 # END EDIT ZONE
 # Academicpages config continues below this point.
