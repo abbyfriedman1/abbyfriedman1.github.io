@@ -29,7 +29,7 @@ repository               : "abbyfriedman1/abbyfriedman1.github.io"  # -> "yourus
 title                    : "Abby Friedman's Portfolio" # the name shown in the maroon header bar and browser tab
 author:
   name     : "Abby Friedman"
-  avatar   : "bio-photo.jpg"
+  avatar   : "abby-friedman-profile.jpg"
   bio      : "Senior, School of Communication, Virginia Tech. Interested in how human communicators build meaning in AI-mediated environments."
   location : "Blacksburg, VA"
   email    : "abbyfriedman@vt.edu"
