@@ -7,32 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-<!-- ============================================================ -->
-<!-- THIS IS A WORKED EXAMPLE. DELETE ALL OF THIS AND REPLACE IT  -->
-<!-- WITH YOUR OWN CONTENT. DO NOT SUBMIT ROBIN HOKIE'S WORDS.    -->
-<!-- ============================================================ -->
+I am a senior in the School of Communication at Virginia Tech, with a concentration
+in integrative health and wellness, set to graduate in May 2027. This portfolio covers
+my coursework and experience over the years in the major- from my intro to communication
+course to my current capstone-style course CMST 4714: The Human Communicator in an Era of
+AI. It exists to answer a question that I ran into as a student curious about algorithm
+strategies: what does a human communicator bring in an era of AI?
 
-I am a senior in the School of Communication at Virginia Tech, concentrating in
-strategic communication and digital media, set to graduate in May 2027. This portfolio
-covers my full four years in the major — from my first public speaking course as a
-freshman through CMST 4714: The Human Communicator in an Era of AI, the capstone-style
-course I am finishing this semester. It exists to answer a question I first ran into as
-an eighteen-year-old annoyed at my own Instagram feed, long before I had the vocabulary
-for it: what does a human communicator actually do that an AI cannot?
+My simple answer, after several years of coursework and real-world experience, as well as
+learning more in depth about communication theory through CMST 4714: a human communicator
+does more than just transfer information. They produce meaning in a way that goes beyond the
+basic message, creating a particular context, for an intended audience, aware that it will be
+perceived and interpreted uniquely by each individual, and now with AI- processed by a
+generative system that synthesizes and distributes content in its own way.
 
-My short answer, after four years of coursework and, this semester, sitting with
-Shannon and Weaver, Escarpit, Hall, and Eco: a human communicator does not just
-transmit information. She produces meaning in a specific social and historical context,
-for a specific reader, in full awareness that her words will be interpreted,
-reinterpreted, and — now — processed by systems that have their own intentions about
-what content should reach which audience.
+This emphasizes the theory of _intentio algorithmi_, a large part of the framework of CMST 4714.
+It gives a clearer understanding of what the human's role is in the workplace.
 
-That last part is what CMST 4714 calls *intentio algorithmi*. Understanding it does not
-make me pessimistic about my field. It makes me clearer about what I am actually being
-hired to do — and looking back at my earlier coursework, I can see I was circling this
-question long before I had a name for it.
-
-## What I bring
+## What I bring- start editing here
 
 Alongside my coursework, I have spent two years as a writer and content coordinator for
 a regional nonprofit focused on housing equity, and I interned for a summer with a
