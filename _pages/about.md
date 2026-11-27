@@ -9,10 +9,10 @@ redirect_from:
 
 I am a senior in the School of Communication at Virginia Tech, with a concentration
 in integrative health and wellness, set to graduate in May 2027. This portfolio covers
-my coursework and experience over the years in the major- from my intro to communication
-course to my current capstone-style course CMST 4714: The Human Communicator in an Era of
-AI. It exists to answer a question that I ran into as a student curious about algorithm
-strategies: what does a human communicator bring in an era of AI?
+my coursework and experience over the years in the major- from my visual media internship
+flyer assignment from CMST: 2034, to my current capstone-style course CMST 4714: The Human
+Communicator in an Era of AI. It exists to answer a question that I ran into as a student
+curious about algorithm strategies: what does a human communicator bring in an era of AI?
 
 My simple answer, after several years of coursework and real-world experience, as well as
 learning more in depth about communication theory through CMST 4714: a human communicator
