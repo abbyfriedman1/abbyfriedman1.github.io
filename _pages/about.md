@@ -24,25 +24,17 @@ generative system that synthesizes and distributes content in its own way.
 This emphasizes the theory of _intentio algorithmi_, a large part of the framework of CMST 4714.
 It gives a clearer understanding of what the human's role is in the workplace.
 
-## What I bring- start editing here
+## What I bring
 
-Alongside my coursework, I have spent two years as a writer and content coordinator for
-a regional nonprofit focused on housing equity, and I interned for a summer with a
-mid-size marketing agency where I watched a content team adopt AI drafting tools and
-spend more time editing for tone than they had previously spent writing. Both
-experiences show up directly in this portfolio: as course projects that used them as
-real case studies, and as the practical experience that keeps my theoretical arguments
-honest.
+Along with my communication coursework, I have spent about two years as a recruiting intern with
+the football team. Throughout my time, I have assisted with various events throughout different seasons.
+My involvement in game days has allowed me to gain hands-on experience working in a fast-paced environment,
+as well as improved my communication skills. My attention to detail, and collaboration skills allow me to
+thrive in these types of settings.
 
 ## This portfolio
 
-The work below is organized chronologically by academic year, from my first public
-speaking course as a freshman to the AI analysis memos and presentation I produced this
-fall in CMST 4714. None of it is a polished final product — each piece is a document of
-thinking in progress at a particular point in my education, and read together they are
-meant to show development, not just a final semester's output. The revision history of
-this repository shows how the CMST 4714 pieces specifically developed.
-
-<!-- ============================================================ -->
-<!-- END OF EXAMPLE. START YOUR OWN ABOUT PAGE ABOVE THIS LINE.  -->
-<!-- ============================================================ -->
+The projects featured below are organized chronologically, from my earliest course to the AI analysis memos
+and presentation from my current CMST 4714 course. None of these assignments are final products, they
+are each a work in progress from different times throughout my education. Reviewing them together, they
+are meant to display the development of my work as a whole. This repository shows how this project has developed.
