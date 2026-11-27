@@ -23,9 +23,9 @@ HokieAI is the most prominent one, and it is also one of the newer additions to 
 In Riedl’s article, when discussing the importance of being cautious with the use of AI, he states: “Once we get to understand how something works, we might not be very impressed and expect something more sophisticated behind the scenes.” This is showing how the algorithms are not perfect or always accurate. Just because they seem to be very knowledgeable, it doesn’t mean they are always the most reliable.
 
 ### Documents Section
-[View Project PDF](./Landscape Analysis Memo/senior sem.pdf)
+[View Project PDF](./folder-name/your-file.pdf)
 ---
-(./folder-name/your-file.pdf)
+
 **Reflection** *(added for portfolio)*
 
 Looking back at this memo from late November, I can see what I was gesturing at but did
