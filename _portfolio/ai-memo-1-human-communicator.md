@@ -28,7 +28,7 @@ In Riedl’s article, when discussing the importance of being cautious with the 
 
 **Reflection** *(added for portfolio)*
 
-Looking back at this memo from late November, I can see what I was gesturing at but did
+Change this: Looking back at this memo from late November, I can see what I was gesturing at but did
 not yet have language for. The "provenance" argument is the *intentio auctoris* problem:
 does the reader know whose intentions shaped this content? The "relational and ethical
 judgment" is what Escarpit means when he says information requires a conscious, free
