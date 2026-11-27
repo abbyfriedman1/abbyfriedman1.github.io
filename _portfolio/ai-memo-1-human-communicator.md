@@ -22,6 +22,8 @@ Throughout your time at Virginia Tech, you will use several types of tools to as
 HokieAI is the most prominent one, and it is also one of the newer additions to Virginia Tech’s resources for students. HokieAI is going to be a big part of the future at school, and this specific version has been specifically tailored to the school, and can be utilized in many different ways. HokieAI is specific to things at Virginia Tech, providing students with a more personalized experience when using the platform. They are good at helping brainstorm or edit writing, but have some limitations when it comes to more complex activities. It also can’t always be trusted as far as accuracy. Using these resources the ways they were intended for will allow you to get the most of the platform. Using it to completely do assignments will not benefit you much, but learning how to utilize it in ways to enhance your own projects will help you in the future.
 In Riedl’s article, when discussing the importance of being cautious with the use of AI, he states: “Once we get to understand how something works, we might not be very impressed and expect something more sophisticated behind the scenes.” This is showing how the algorithms are not perfect or always accurate. Just because they seem to be very knowledgeable, it doesn’t mean they are always the most reliable.
 
+### Documents Section
+[View Project PDF](./folder-name/your-file.pdf)
 
 ---
 
