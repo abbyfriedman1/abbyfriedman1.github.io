@@ -7,11 +7,6 @@ term: "Fall 2026"
 date: 2026-09-02
 ---
 
-<!-- ============================================================ -->
-<!-- THIS IS A WORKED EXAMPLE. DELETE ALL OF THIS AND REPLACE IT  -->
-<!-- WITH YOUR OWN PROJECT CONTENT.                               -->
-<!-- ============================================================ -->
-
 **Assignment:** AI Analysis Memo 1 — Landscape Analysis
 **Submitted:** September 2, 2026
 **Audience:** Hiring manager, mid-size communications agency
@@ -19,33 +14,14 @@ date: 2026-09-02
 ---
 
 **TO:** Search Committee, Communications Associate Position
-**FROM:** Robin Hokie
+**FROM:** Abby Friedman
 **DATE:** September 2, 2026
 **RE:** Why hire a human communicator in 2026
 
-The question is fair: your agency can generate a first draft in under thirty seconds.
-Why pay a communicator to do what a language model does faster and cheaper?
+Throughout your time at Virginia Tech, you will use several types of tools to assist you with your courses and schoolwork. Specifically within the school of communication there are a variety of resources and platforms to help you with your classes. Some of these include generative AI tools such as HokieAI, ChatGPT, and others, as well as video editing platforms like photoshop, and editing and styling tools to help with writing such as Grammarly. These tools are not put in place to do the work for you, but to help you as you complete your assignments. They have been designed as a resource to expand on ideas and spark creativity.
+HokieAI is the most prominent one, and it is also one of the newer additions to Virginia Tech’s resources for students. HokieAI is going to be a big part of the future at school, and this specific version has been specifically tailored to the school, and can be utilized in many different ways. HokieAI is specific to things at Virginia Tech, providing students with a more personalized experience when using the platform. They are good at helping brainstorm or edit writing, but have some limitations when it comes to more complex activities. It also can’t always be trusted as far as accuracy. Using these resources the ways they were intended for will allow you to get the most of the platform. Using it to completely do assignments will not benefit you much, but learning how to utilize it in ways to enhance your own projects will help you in the future.
+In Riedl’s article, when discussing the importance of being cautious with the use of AI, he states: “Once we get to understand how something works, we might not be very impressed and expect something more sophisticated behind the scenes.” This is showing how the algorithms are not perfect or always accurate. Just because they seem to be very knowledgeable, it doesn’t mean they are always the most reliable.
 
-Here is my answer, written before I have the theoretical vocabulary this course will
-give me, from what I know now.
-
-A language model produces text that is statistically appropriate to a context. It is
-very good at this. But appropriate and *right* are not the same thing. When I wrote the
-housing equity guide for the Blacksburg coalition, the challenge was not producing
-grammatically correct sentences about Section 8 eligibility. The challenge was earning
-the trust of readers who had concrete, historical reasons to distrust any official
-document, and writing in a way that neither condescended nor omitted. That is not an
-optimization problem. It is a relational and ethical judgment, and it required knowing
-the community, not just the subject.
-
-I am also making an argument this agency is not yet making to your clients: that the
-provenance of content matters. That an audience increasingly wants to know whether they
-are reading a person or a system, and that the answer changes what the content means to
-them. A communicator who can articulate that argument, and build a workflow that makes
-the distinction legible, is worth hiring now — before your clients start asking for it.
-
-I am not arguing against AI tools. I use them and will continue to. I am arguing that
-the communicator who uses them well, and knows when not to, is the one worth hiring.
 
 ---
 
