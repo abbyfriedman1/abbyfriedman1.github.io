@@ -24,7 +24,6 @@ In Riedl’s article, when discussing the importance of being cautious with the 
 
 ### Documents Section
 [View Project PDF](./folder-name/your-file.pdf)
-
 ---
 
 **Reflection** *(added for portfolio)*
